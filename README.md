@@ -23,8 +23,8 @@ Dams play a crucial role in water supply. Water resources plays important roles 
 ### Hardware Architechture
 <p align="center"><img src="Photos/DJ_PM_Project_hardware1.png"></p>
 
-## Prototype
-https://jagaganesh.github.io/TCE/TCE_IT_FOURT%20SEMESTER_PM/Water%20Quality%20Monitoring/
+## Prototype 
+https://velmuruganittce.github.io/WaterQualityMonitoring/
 
 ### Stimulation
 https://www.tinkercad.com/things/9E8cdLTm3De-water-quality-monitor/editel?sharecode=REdZF-S6RcKmIQKf4jpxHuw-JBuGyy1rG2l0ghVlF9c
